@@ -48,9 +48,6 @@
         'l10n_ar_ux',
         'l10n_ar_withholding_ux',
     ],
-    'external_dependencies': {
-        'python': ['pyafipws'],
-    },
     'installable': True,
     'auto_install': ['l10n_ar'],
 }
